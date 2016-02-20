@@ -1,0 +1,4 @@
+# Ceedling folders
+build/
+vendor/
+rakefile.rb
